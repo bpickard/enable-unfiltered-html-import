@@ -1,8 +1,8 @@
 <?php 
 /**
  * Plugin Name: Enable unfiltered HTML import
- * Plugin URI: https://github.com/bpickard/Web-Development/blob/master/enable_unfiltered_html_import.php
- * Description: Allows unfiltered HTML content to be imported (e.g. script/ig
+ * Plugin URI: https://github.com/bpickard/enable-unfiltered-html-import/blob/master/enable-unfiltered-html-import.php
+ * Description: Allows unfiltered HTML content to be imported when using the WordPress import/export function
  * Version: 1.0.0
  * Author: Bill Pickard
  * Author URI: 
