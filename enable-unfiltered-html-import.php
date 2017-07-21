@@ -11,3 +11,4 @@
 
 /* Found at https://wordpress.stackexchange.com/questions/1549/disabling-html-filtering-when-importing-into-wordpress-multisite on 07-20-2017*/
 add_filter( 'force_filtered_html_on_import' , '__return_false' );
+
